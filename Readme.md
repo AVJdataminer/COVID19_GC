@@ -26,3 +26,4 @@ This is a set of Jupyter notebooks designed to teach data science through projec
   * Present and share your findings - storytelling
   * Finalize Code 
   * Finalize Documentation
+  
