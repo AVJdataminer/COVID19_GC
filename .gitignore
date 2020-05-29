@@ -1,0 +1,10 @@
+#VS code and stackedit.io
+.vscode/
+.history/
+.stackedit-trash/
+.DS_store
+
+# Jupyter nb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.history
